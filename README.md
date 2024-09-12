@@ -3,7 +3,7 @@
 You can reach out for security consultancy and reviews via:
 
 - **X:** @AungMaw97445407
-- **Discord:** @irivng6969
+- **Discord:** @irving6969
 - **Telegram:** @AungMaw36
 
 For private audits, I can be contacted through Twitter or Discord. 
@@ -13,11 +13,14 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 9 High 9 Medium 6 Low 7 informational | $1,393.94 |
+| 9 High 9 Medium 6 Low 7 informational | $14,055.95|
 
 🥇 = Selected for report.
 | Date | Contest | Platform | Findings | Payout |
 |:--|:--|:--|:--:|:--:|
+| August 2024 | TraitForge | Code4rena | 1 Medium | $360 |
+| July 2024 | Optimism superchain | Code4rena | 1 Medium | $OP 1500 |
+| July 2024 | chainlink | CodeHwaks(team) | 1 Medium | $10301 |
 | June 2024 | ThorChain | Code4rena | 1 High 2 Medium | $153.75 |
 | April 2024 | Renzo | Code4rena | 2 High 1 Medium | $18.61 |
 | April 2024 | DYAD | Code4rena | 1 High - 2 Medium | $223 |
