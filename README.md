@@ -13,11 +13,12 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 10 High 11 Medium 6 Low 7 informational | $14,244.81|
+| 10 High 12 Medium 6 Low 7 informational | $14,559.13|
 
 🥇 = Selected for report.
 | Date | Contest | Platform | Findings | Payout |
 |:--|:--|:--|:--:|:--:|
+| September 2024 | ZetaChain | Cantina | 1 Medium | $324.32 |
 | September 2024 | SuperPosition | Code4rena | 1 High 2 Medium | $178.86 |
 | August 2024 | TraitForge | Code4rena | 1 Medium | $360 |
 | July 2024 | Optimism superchain | Code4rena | 1 Medium | $OP 1500 |
