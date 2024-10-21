@@ -13,7 +13,7 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 10 High 12 Medium 6 Low 7 informational | $14,629.32|
+| 10 High 13 Medium 6 Low 7 informational | $14,629.32|
 
 🥇 = Selected for report.
 | Date | Contest | Platform | Findings | Payout |
