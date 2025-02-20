@@ -18,6 +18,9 @@ For private audits, I can be contacted through Twitter or Discord.
 🥇 = Selected for report.
 | Date | Contest | Platform | Findings | Payout |
 |:--|:--|:--|:--:|:--:|
+| January 2025 | initia  | Codehawks | 1 High (solo) (third place) | $8050 |
+| October 2024 | zksync Era | Codehawks | 1 Medium | $1,335.75 |
+| October 2024 | Omni | cantina | 1 Medium | $392.58 |
 | September 2024 | starknet | Codehawks | 1 Medium | $70.19 |
 | September 2024 | ZetaChain | Cantina | 1 Medium | $324.32 |
 | September 2024 | SuperPosition | Code4rena | 1 High 2 Medium | $178.86 |
